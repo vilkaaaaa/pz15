@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pz15</string>
+    <string name="Name">ФИО</string>
+    <string name="Year">Возраст</string>
+    <string name="Save">Сохранить</string>
+    <string name="Delete">Удалить</string>
+</resources>
